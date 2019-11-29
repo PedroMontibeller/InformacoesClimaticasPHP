@@ -35,6 +35,7 @@
         <meta name="twitter:description" content="Projeto de informações climáticas de Brusque desenvolvido por Pedro Henrique Montibeller no SENAI-SC" />
         <meta name="twitter:title" content="Projeto Clima SENAI" />
     </head>
+    
     <body>
         <div class="alert alert-danger mt-3">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
